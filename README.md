@@ -6,7 +6,7 @@ The **Movie Recommendation System** is a C++ program designed to offer personali
 - **Time-saving**: Quickly suggests relevant movies without the need to search through large catalogs.
 - **Diverse exploration**: Encourages users to discover new films they may not have considered.
 
-## 3. Technologies Used
+## Technologies Used
 - **C++**: Core programming language for system logic.
 - **Microsoft Excel**: Used for storing and managing the movie database.
 - **Object-Oriented Programming (OOP)**: Applied for clean data handling and code structure.
